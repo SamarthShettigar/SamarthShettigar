@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✒️ About Me:
 Computer Science Engineering student passionate about building, breaking and improving code.<br>I like things simple, clean and professional.<br>Learning. Building. Improving every day.
 
 
